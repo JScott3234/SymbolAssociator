@@ -1,0 +1,30 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data and Logs
+*.p
+*.pickle
+*.csv
+*.dat
+*.log
+
+# Documents / References (optional, uncomment if you want to commit these)
+*.pdf
